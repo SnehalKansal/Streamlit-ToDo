@@ -16,6 +16,3 @@ It supports task creation, priority selection, completion toggling, deletion, an
 
 ---
 
-🧠 Tech Stack <br>
-Python 🐍 <br>
-Streamlit 🎈
